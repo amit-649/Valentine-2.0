@@ -248,7 +248,7 @@ const App: React.FC = () => {
                             <h2 className="text-3xl md:text-4xl font-handwriting text-romantic-500 mb-4">
                                 Our Favorite Memories 📸
                             </h2>
-                            <p className="text-gray-500 text-sm">Tap to reveal each memory ✅</p>
+                            <p className="text-gray-500 text-sm">Tap the cards to unlock our secrets 😉</p>
                         </div>
                         <div className="container mx-auto max-w-4xl">
                             <PhotoGrid />
@@ -286,7 +286,7 @@ const App: React.FC = () => {
                     </Section>
 
                     <footer className="w-full py-8 text-center text-romantic-300 text-sm font-light bg-white/30">
-                        Made with <Heart size={12} className="inline text-red-400 fill-red-400" /> + too much horniness by your chaotic girlfriend
+                        Made with 💖💝 by your chaotic girlfriend
                     </footer>
                 </motion.div>
             )}

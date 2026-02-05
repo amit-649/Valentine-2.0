@@ -40,7 +40,7 @@ From the moment you came into my life, everything felt warmer.
 Your smile is my favorite sunrise, and your laugh is my favorite song.
 
 I made this little space just for us, to remind you of how much you mean to me.
-You are my best friend, my confidant, and my greatest adventure.
+You are my best friend, my confident, and my greatest adventure.
 
 Forever yours,
 Your Butki 🖤

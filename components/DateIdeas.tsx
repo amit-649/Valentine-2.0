@@ -1,15 +1,14 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Video, Pizza, Moon, Music, Camera, Gamepad2, Coffee } from 'lucide-react';
+import { Bike, ChefHat, Tv, Gamepad2, Trees, UtensilsCrossed } from 'lucide-react';
 
 const dates = [
-    { icon: Video, text: "Netflix party + video call (I'll let you pick... maybe)", color: "bg-red-100 text-red-500" },
-    { icon: Pizza, text: "Order the same food together & judge each other's eating habits", color: "bg-orange-100 text-orange-500" },
-    { icon: Moon, text: "Late night talks that somehow turn into sleeping together on call", color: "bg-indigo-100 text-indigo-500" },
-    { icon: Music, text: "Playlist exchange & argue about music taste (you're wrong btw)", color: "bg-green-100 text-green-500" },
-    { icon: Camera, text: "Send me your selfies so I can simp shamelessly 🤤", color: "bg-pink-100 text-pink-500" },
-    { icon: Gamepad2, text: "Play games together & watch you absolutely destroy me", color: "bg-purple-100 text-purple-500" },
-    { icon: Coffee, text: "Virtual coffee dates where we pretend we're fancy", color: "bg-yellow-100 text-yellow-600" },
+    { icon: Bike, text: "Go for a long bike ride", color: "bg-blue-100 text-blue-500" },
+    { icon: ChefHat, text: "Cook dinner together", color: "bg-orange-100 text-orange-500" },
+    { icon: Tv, text: "Netflix and chill at home", color: "bg-red-100 text-red-500" },
+    { icon: Gamepad2, text: "Let's have some outdoor games at a mall", color: "bg-purple-100 text-purple-500" },
+    { icon: Trees, text: "Go for a picnic in a park", color: "bg-green-100 text-green-500" },
+    { icon: UtensilsCrossed, text: "Try some random street foods", color: "bg-yellow-100 text-yellow-600" },
 ];
 
 const DateIdeas: React.FC = () => {

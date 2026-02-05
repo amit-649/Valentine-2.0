@@ -192,7 +192,7 @@ const App: React.FC = () => {
                                             <X size={20} className="text-red-500" /> Every "no" from now on = 10 extra kisses
                                         </p>
                                         <p className="flex items-center gap-2 text-green-700 font-bold">
-                                            <Check size={20} className="text-green-500" /> You're stuck with your chaotic girlfriend FOREVER 😈
+                                            <Check size={20} className="text-green-500" /> You're stuck with me FOREVER 😈
                                         </p>
                                     </div>
                                     <button
@@ -268,8 +268,8 @@ const App: React.FC = () => {
                     {/* LOVE NOTES */}
                     <Section id="reasons" className="bg-romantic-50">
                         <div className="text-center mb-10">
-                            <h2 className="text-3xl md:text-4xl font-handwriting text-romantic-500 mb-4">
-                                Things I Love About You
+                            <h2 className="text-3xl md:text-4xl font-handwriting text-romantic-500 mb-8">
+                                Why I Love You ❤️
                             </h2>
                         </div>
                         <LoveNotes />
@@ -286,7 +286,7 @@ const App: React.FC = () => {
                     </Section>
 
                     <footer className="w-full py-8 text-center text-romantic-300 text-sm font-light bg-white/30">
-                        Made with 💖💝 by your chaotic girlfriend
+                        Made with ❤️
                     </footer>
                 </motion.div>
             )}
